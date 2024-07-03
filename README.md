@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhek7in&label=Profile%20views&color=0e75b6&style=flat" alt="bhek7in" /> </p>
 
-- 🔭 I’m currently working on **payment engines**
+- 🔭 I’m currently working on **something cool!**
 
 - 🌱 I’m currently learning **API development, Maven, Springboot.**
 
